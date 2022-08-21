@@ -2,10 +2,10 @@
   "name": "v2",
   "description": "Personal Website V2",
   "version": "1.0.0",
-  "author": "Chandrika Deb <chandrikadeb7@gmail.com>",
+  "author": "Asliddin5515 <asliddinf@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io"
+    "url": "https://github.com/Asliddin5515/asliddin.github.io"
   },
   "keywords": [
     "gatsby"
@@ -35,7 +35,6 @@
   },
   "dependencies": {
     "animejs": "^3.1.0",
-    "@emailjs/browser":"3.4.0",
     "babel-plugin-styled-components": "^2.0.2",
     "gatsby": "^4.6.0",
     "gatsby-image": "^3.11.0",
